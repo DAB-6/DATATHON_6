@@ -141,8 +141,8 @@
 <img width="1752" height="564" alt="image" src="https://github.com/user-attachments/assets/c3455189-89db-4026-ba10-2a4b06521277" />
 <img width="1978" height="634" alt="image" src="https://github.com/user-attachments/assets/4c3020b5-e93d-4a37-a32c-23eaa5c65ea6" />
 
-- 디즈니는 방문객이 2~3배 많아도  
-  평균 대기시간 **20~35분** 유지  
+- 디즈니는 방문객이 2 ~ 3배 많아도 평균
+  대기시간 20 ~ 35분 유지  
 - 대기공간에 **스토리·체험 요소** 강화  
 - FastPass·Virtual Queue로 혼잡 완화  
 - 에버랜드는 부지가 더 넓음에도  
